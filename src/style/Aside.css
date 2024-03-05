@@ -1,0 +1,15 @@
+.Aside{
+    /* background-color: rgb(255, 0, 0, 0.3); */
+    width: 24%;
+    height: auto;
+    min-height: 450px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 25px;
+    box-shadow: -3px 0px 8px 0.3px black;
+    backdrop-filter: blur(1.5px);
+}
+h1{
+    margin: 0;
+    font-weight: 900;
+}
