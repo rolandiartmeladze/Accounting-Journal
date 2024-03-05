@@ -19,6 +19,9 @@ ul{
     margin: 3px;
 }
 li{
+    background-color: rgb(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+
     text-align: left;
     margin: 3px;
     padding: 5px;
@@ -28,8 +31,9 @@ li{
 }
 .Aside samp{
     margin-left: 10px;
-    color: rgb(217, 255, 0);
-    font-weight: 1200;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    font-weight: 900;
 
 }
 .Finde{
